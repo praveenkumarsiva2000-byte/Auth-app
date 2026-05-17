@@ -1,5 +1,10 @@
 # 🔐 Auth App — User Authentication & Authorization with Bearer Token
 
+## 🚀 Live Demo
+- **Deployed URL:** https://auth-app-quia.onrender.com
+- **GitHub:** https://github.com/praveenkumarsiva2000-byte/Auth-app
+- **Postman Docs:** https://documenter.getpostman.com/view/54651339/2sBXqRiGjk
+
 A complete JWT-based authentication system built with **Node.js**, **Express.js**, **Mongoose**, and **bcryptjs**, following the **MVC pattern**.
 
 ---
